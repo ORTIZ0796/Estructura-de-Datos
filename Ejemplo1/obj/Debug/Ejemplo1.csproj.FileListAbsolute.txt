@@ -1,0 +1,9 @@
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\EStructura de DAtos\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
