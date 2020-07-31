@@ -1,0 +1,10 @@
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.pdb
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Form1.resources
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Properties.Resources.resources
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csproj.GenerateResource.Cache
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
+C:\Users\Ivan_Ortiz\Desktop\Programacio I - CET BENI\Estructura de Datos\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.Form2.resources
